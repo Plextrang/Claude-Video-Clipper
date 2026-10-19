@@ -23,8 +23,8 @@ creator's brand colours, and a couple of subtle whooshes.
 
 ## Setup (once)
 ```bash
-git clone https://github.com/<your-username>/claude-clipping-tool.git
-cd claude-clipping-tool
+git clone https://github.com/Plextrang/Claude-Video-Clipper.git
+cd Claude-Video-Clipper
 python install.py
 ```
 `install.py` creates a private Python environment (`.venv`) and installs everything (yt-dlp,
